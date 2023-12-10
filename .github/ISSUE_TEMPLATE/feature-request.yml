@@ -4,7 +4,7 @@ title: "[FEATUE]: "
 labels: ["enhancement"]
 body:
   - type: textarea
-    id: what-happened
+    id: content
     attributes:
       label: 概要
       description: 機能追加概要
@@ -15,7 +15,7 @@ body:
       value: |
         以下、オプションです。よろしければご記入ください。
   - type: textarea
-    id: what-happened
+    id: from-customer-information
     attributes:
       label: 顧客からの提供資料（Email 内容など）
       description: 
